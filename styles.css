@@ -1,7 +1,7 @@
 
 .holder{
 	display:grid;
-	grid-template-columns:repeat(2,33%)
+	grid-template-columns:repeat(2,100px);
 	
 }
 .holder .item{
